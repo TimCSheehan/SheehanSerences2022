@@ -14,6 +14,10 @@ With this project, I examined a tendency for human observers to perceive the wor
 
 This work suggests that human perception prioritizes change detection at encoding while ensuring stable representations informed by priors at later stages of processing. This is in line with predictive coding and "outside-in" models of human perception. In the context of more generalized forms of intelligence, optimal approaches may favor sparse coding of stimulus changes across time, allowing later layers to encoded historical context.
 
+<p align="center">
+<img src="figs/Fig2.PNG" alt="drawing" width="600"/>
+</p>
+
 ## Code Highlights
 * [Main fMRI Analysis Script](https://github.com/TimCSheehan/SheehanSerences2022/blob/main-code/Analysis/fMRI_mainAnalysis.ipynb)
 * [Main Behavioral Analysis Script](https://github.com/TimCSheehan/SheehanSerences2022/blob/main-code/Analysis/Behavior_mainAnalysis.ipynb)
